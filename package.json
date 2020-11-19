@@ -1,0 +1,37 @@
+{
+  "name": "e2e-scripts",
+  "version": "0.0.1",
+  "description": "End to End Scripts of Huan",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node juzi-crm-checkly/login-check-busy",
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huan/e2e-scripts.git"
+  },
+  "keywords": [
+    "e2e",
+    "scripts"
+  ],
+  "author": "Huan LI <zixia@zixia.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/huan/e2e-scripts/issues"
+  },
+  "homepage": "https://github.com/huan/e2e-scripts#readme",
+  "git": {
+    "scripts": {
+      "pre-push": "npx git-scripts-pre-push"
+    }
+  },
+  "dependencies": {
+    "@chatie/eslint-config": "^0.12.1",
+    "@chatie/git-scripts": "^0.6.2",
+    "@chatie/tsconfig": "^0.10.1",
+    "dotenv": "^8.2.0",
+    "playwright": "^1.6.2",
+    "puppeteer": "^5.5.0"
+  }
+}
