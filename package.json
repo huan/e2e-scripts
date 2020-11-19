@@ -1,6 +1,6 @@
 {
   "name": "e2e-scripts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "End to End Scripts of Huan",
   "main": "index.js",
   "scripts": {
