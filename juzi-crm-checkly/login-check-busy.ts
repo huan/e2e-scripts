@@ -1,3 +1,8 @@
+/**
+ * Huan(202011)
+ *  https://chatie.checklyhq.com/
+ */
+
 // this script emulates a user filling out a form on an iPad
 // import puppeteer from 'puppeteer'
 import playwright from 'playwright'

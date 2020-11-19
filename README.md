@@ -6,6 +6,10 @@ End to End Scripts that written by Huan
 
 Save e2e scripts to this repo for easy management.
 
+## Scripts
+
+1. [juzi-crm-checkly](juzi-crm-checkly/) is for <https://chatie.checklyhq.com/>, Nov 2020
+
 ## Author
 
 [Huan LI](https://github.com/huan) ([李卓桓](http://linkedin.com/in/zixia)), Microsoft AI MVP, zixia@zixia.net
